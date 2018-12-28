@@ -3,3 +3,7 @@ This 3 files were copied from https://codepen.io/anon/pen/roGBNa
 I almost forgot to write this line!
 
 Another line, another commit ! My pull request is not accepted yet!
+
+This is the last test of fork! Just to see how it works deeper!
+
+Come on men, now seriously, this is the last line!
